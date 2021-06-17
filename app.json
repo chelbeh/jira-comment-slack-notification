@@ -21,9 +21,4 @@
       "description": "The base64 encoded string of your RSA Private Key"
     }
   },
-  "addons": [
-    {
-      "plan": "mongolab:sandbox"
-    }
-  ]
 }
